@@ -24,7 +24,12 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
+<h3>My latest posts</h3>
+<ul>
+  <li><a href="https://medium.com/@MyaElla/react-native-debugger-and-expo-5a59e3f6e71b"><b>React Native Debugger and Expo</b></a><br/><i>How to make a good pairing</i></li>
+  
+ 
+</ul>
 <!--
 **MyaElla/MyaElla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
