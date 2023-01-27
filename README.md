@@ -2,7 +2,7 @@
 
 
 - 👋 I'm Mihaela (Pronunciation: Mee high eh la )
-- 👩🏻‍💻 I’m currently working on 🍪
+- 👩🏻‍💻 I’m currently working on 🍪 🧱
 - 📚 I’m currently learning developing microservices with AWS
 - 👯 I’m looking to collaborate on React Native side projects
 - 🤔 I’m looking for help with 'learning in public' and setting objectives as a software engineer
