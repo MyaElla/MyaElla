@@ -50,20 +50,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+🔥🔥🔥🔥🔥
 = Inspiratie: https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91
 =How to make the shields.io bagdes: https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
 
 eg   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 
-Idei:
+🔥 Idei:
 <a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://public.tableau.com/app/profile/thomas.george.thomas"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></img></a>
 <a target="_blank" href="https://medium.com/@thomas-george-thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
+🔥
+<p align="center">
+	<a href="https://twitter.com/TerryTangYuan"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://github.com/terrytangyuan"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a rel="me" href="https://fosstodon.org/@terrytangyuan"><img src="imgs/mastodon.svg" alt="Mastodon"></a>
+	<a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
+	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+	<a href="https://scholar.google.com/citations?user=2GYttqUAAAAJ&hl=en"><img src="imgs/citations.svg" alt="Citations"></a>
+	<a href="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat-qr-code.png"><img src="imgs/wechat.svg" alt="微信"></a>
+</p>
 
+🔥
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
