@@ -35,8 +35,6 @@
 </ul>
 
 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@MyaElla/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0" alt="Recent Article on medium 1"></img></a>
 <!--
 **MyaElla/MyaElla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
